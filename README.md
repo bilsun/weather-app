@@ -1,5 +1,6 @@
 # Vue.js Weather App
 
+Created for INFO 4340: User Experience and Software Development Studio with Cornell Computing & Information Science
 link to web app: https://bs676-hw5.herokuapp.com/
 
 ## Project setup
