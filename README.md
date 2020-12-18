@@ -1,4 +1,6 @@
-# bs676-hw4
+# Vue.js Weather App
+
+link to view: https://bs676-hw5.herokuapp.com/
 
 ## Project setup
 ```
