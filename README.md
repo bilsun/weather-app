@@ -1,4 +1,4 @@
-# Vue.js Weather App
+# Vue.js Weather Web App
 
 Created for INFO 4340: User Experience and Software Development Studio with Cornell Computing and Information Science
 
